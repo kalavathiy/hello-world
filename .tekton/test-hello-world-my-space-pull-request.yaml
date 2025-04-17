@@ -13,7 +13,7 @@ metadata:
   creationTimestamp: null
   labels:
     appstudio.openshift.io/application: test-hello-world-my-space
-    appstudio.openshift.io/component: test-hello-world-my-space
+    appstudio.openshift.io/component: test-hello-world-my-space1
     pipelines.appstudio.openshift.io/type: build
   name: test-hello-world-my-space-on-pull-request
   namespace: oeo-cicada-tenant
